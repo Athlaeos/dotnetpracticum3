@@ -1,0 +1,7 @@
+D:\dotnet_workspace\DotnetPracticum3\bin\Debug\DotnetPracticum3.exe.config
+D:\dotnet_workspace\DotnetPracticum3\bin\Debug\DotnetPracticum3.exe
+D:\dotnet_workspace\DotnetPracticum3\bin\Debug\DotnetPracticum3.pdb
+D:\dotnet_workspace\DotnetPracticum3\obj\Debug\DotnetPracticum3.csprojAssemblyReference.cache
+D:\dotnet_workspace\DotnetPracticum3\obj\Debug\DotnetPracticum3.csproj.CoreCompileInputs.cache
+D:\dotnet_workspace\DotnetPracticum3\obj\Debug\DotnetPracticum3.exe
+D:\dotnet_workspace\DotnetPracticum3\obj\Debug\DotnetPracticum3.pdb
